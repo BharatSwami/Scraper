@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# this is great
 import socket
 
 mysoct=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
